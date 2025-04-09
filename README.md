@@ -28,6 +28,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
+# 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)  
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)
+
 # 📚 Education:
 **Shah & Anchor Kutchhi Engineering College**  
 🎓 B.Tech in Cyber Security (2022–2026)  
